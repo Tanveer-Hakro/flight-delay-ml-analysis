@@ -1,0 +1,5 @@
+Model,R2,RMSE_minutes
+Tuned Ridge,0.017,53.041
+Polynomial OLS,0.016,53.091
+Polynomial Ridge,0.016,53.091
+Polynomial Lasso,0.016,53.093
